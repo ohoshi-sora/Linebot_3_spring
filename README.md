@@ -1,1 +1,2 @@
-# Linebot_3_spring
+#Linebot_3_spring
+3年生春の授業で作成したLinebot
